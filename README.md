@@ -9,7 +9,7 @@ for good fortune and prosperity as a Chinese New Year tradition. If brush ink ca
 replicated with AR, then anyone with the source code can draw without purchasing physical
 writing tools. Using Hooke’s Law to simulate brush strokes, a creative coding blog, is another
 inspiration source by integrating physics to elevate this experience (Moussa, 2021)[^1].
-## Controls
+### Controls
 Instead of the mouse cursor, pinch detection from either hand controls the brush strokes, adjusting brush size
 and on/off toggle. Below are two sample demonstrations with handpose and AR.
 
